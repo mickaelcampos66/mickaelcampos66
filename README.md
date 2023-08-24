@@ -25,4 +25,4 @@ Du métier d'administrateur réseau et de maintenance informatique au développe
 ## Contact
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mcampos66/)
-[<img alt="linked-in" src="https://img.shields.io/badge/website-%2312100E.svg?&style=for-the-badge" />](https://mickaelcampos66.github.io/CV/)
+[<img alt="linked-in" src="https://img.shields.io/badge/website-%2312100E.svg?&style=for-the-badge" />](https://mickaelcampos66.github.io/mickaelcampos/)
